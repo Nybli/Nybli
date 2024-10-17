@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nybli
 - 👀 I’m interested in music, games, readings
 - 🌱 I’m currently learning JavaScript
+- 📫 How to reach me @nybli
 - 😄 Pronouns: She/Her
-- ⚡ 👩‍❤️‍👩🐈🐈‍⬛🌻🌈♾️
+- ⚡🌻🧩♾️⚛️🌈👩🏻‍❤️‍💋‍👩🏽🏳️‍🌈🐈🐈‍⬛
   
 <!---
 Nybli/Nybli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
